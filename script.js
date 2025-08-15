@@ -1,0 +1,1 @@
+console.log("Daily Expense Tracker loaded");
