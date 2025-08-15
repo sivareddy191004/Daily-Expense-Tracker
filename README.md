@@ -1,23 +1,23 @@
-# Daily Expense Tracker 💰
+Daily Expense Tracker 💰
 
-## 📌 Project Overview
-This project is a **web-based daily expense tracker** built using **HTML, CSS, JavaScript, PHP, and MySQL**.  
-It allows users to **add, view, and delete daily expenses**, helping them manage personal finances efficiently.  
+📌 Project Overview
 
-The project uses **PHP for backend operations**, **MySQL for data storage**, and **JavaScript for client-side interactions**.  
+This project is a web-based daily expense tracker built using HTML, CSS, JavaScript, PHP, and MySQL.It allows users to add, view, and delete daily expenses, helping them manage personal finances efficiently.
 
----
+The project uses PHP for backend operations, MySQL for data storage, and JavaScript for client-side interactions.
 
-## 🛠 Technologies Used
-- **HTML, CSS, JavaScript** – Frontend
-- **PHP** – Backend server-side scripting
-- **MySQL** – Database
-- **XAMPP** – Local development environment
+🛠 Technologies Used
 
----
+HTML, CSS, JavaScript – Frontend
 
-## 🔄 Workflow Diagram
-```text
+PHP – Backend server-side scripting
+
+MySQL – Database
+
+XAMPP – Local development environment
+
+🔄 Workflow Diagram
+
 User (Web Browser)
         │
         ▼ [Add/View/Delete Expense]
@@ -29,6 +29,7 @@ User (Web Browser)
         ▼ [MySQL Queries]
         │
   MySQL Database
+
 🚀 Features
 
 Add Expense – Save daily expenses with description and amount
@@ -81,8 +82,7 @@ Install XAMPP and start Apache & MySQL
 
 Clone the repository:
 
-git clone https://github.com/sivareddy191004/Daily-Expense-Tracker.git
-
+git clone https://github.com/your-username/your-repo-name.git
 
 Move the project folder to C:\xampp\htdocs
 
@@ -95,17 +95,6 @@ $username = "root";
 $password = ""; // XAMPP default
 $dbname = "daily_expense_db";
 
-
 Open in your browser:
 
 http://localhost/daily-expense-tracker/
-
-📌 Usefulness
-
-Perfect for managing personal finances
-
-Good practice for full-stack PHP-MySQL projects
-
-Can be extended to graphs, reports, or multi-user functionality
-
-Adds a resume-worthy project to showcase web development skills
